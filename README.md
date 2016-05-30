@@ -1,6 +1,4 @@
 # hello-world
 UoA student, 192 InfoMgmt
 
-Hi Humans
-
-I like pizza 123
+https://github.com/rickbarraza/CreativeCodingUnity01
