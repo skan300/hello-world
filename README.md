@@ -1,4 +1,4 @@
 # hello-world
-UoA student, 192 InfoMgmt
+Infomanagement 192, Assignemnt 2 
 
 https://github.com/rickbarraza/CreativeCodingUnity01
